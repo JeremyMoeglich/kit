@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.217
+
+### Patch Changes
+
+- Support more text content types ([#2781](https://github.com/sveltejs/kit/pull/2781))
+
 ## 1.0.0-next.216
 
 ### Patch Changes
